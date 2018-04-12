@@ -1,2 +1,2 @@
 # hello-world
-マンガでわかるGit ７
+マンガでわかるGit ７・８
